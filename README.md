@@ -1,2 +1,2 @@
 # sflnk
-cap cus
+file - file untuk sflnk
